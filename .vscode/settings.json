@@ -1,0 +1,17 @@
+{
+  // Editor
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 18,
+  "editor.tabSize": 2,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.formatOnSave": true,
+  "editor.suggest.preview": true,
+
+  // Extension
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  // Workbench
+  "workbench.colorTheme": "Monokai Pro Light",
+  "workbench.iconTheme": "vscode-icons"
+}
